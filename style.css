@@ -158,7 +158,7 @@
     margin: 0;
     padding: 90px 50px;
     box-sizing: border-box;
-    background-image: url("/images/poco-f2-pro__mi-ui-img.jpg");
+    background-image: url("./images/poco-f2-pro__mi-ui-img.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

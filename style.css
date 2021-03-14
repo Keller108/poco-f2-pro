@@ -164,3 +164,24 @@
     background-repeat: no-repeat;
     color: #fff;
 }
+
+@media (max-width: 480px) {
+    .poco-f2-pro__header-section {
+        padding: 30px;
+    }
+    .poco-f2-pro__section-title {
+        font-size: 20px;
+    }
+    .poco-f2-pro__section-subtitle {
+        font-size: 18px;
+    }
+    .poco-f2-pro__section-text {
+        font-size: 15px;
+    }
+    .poco-f2-pro__regular-section {
+        padding: 30px;
+    }
+    .poco-f2-pro__text-on-pic-section {
+        padding: 30px;
+    }
+}
